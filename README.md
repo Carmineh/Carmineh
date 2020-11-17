@@ -5,3 +5,4 @@
 #### - 🤔 I’m looking for help with advanced Python
 #### - 📫 How to reach me: E-Mail 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carmineh)](https://github.com/anuraghazra/github-readme-stats)
