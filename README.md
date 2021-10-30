@@ -3,7 +3,7 @@
 
 ##### - ♍ Class '99.
 ##### - 📚 Informatic Science Student at University of Salerno
-##### - 🔭 I’m currently working on <a href="https://github.com/Carmineh/IT-Manager" alt="University Project">IT-Manager</a> (An university Project)
+##### - 🔭 I’m currently working on.... Nothing :'(
 ##### - 🌱 I’m currently learning Base Web Developing
 ##### - 💻 Mostly Backend Developer
-##### - 📫 How to reach me: E-Mail[carmine.calabrese99@gmail.com]
+##### - 📫 How to reach me: E-Mail[carmine.calabrese99@gmail.com] - Discord[Manny#2523]
