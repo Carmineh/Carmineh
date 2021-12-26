@@ -4,6 +4,4 @@
 ##### - ♍ Class '99.
 ##### - 📚 Informatic Science Student at University of Salerno
 ##### - 🔭 I’m currently working on.... Nothing :'(
-##### - 🌱 I’m currently learning Base Web Developing
-##### - 💻 Mostly Backend Developer
-##### - 📫 How to reach me: E-Mail[carmine.calabrese99@gmail.com] - Discord[Manny#2523]
+
