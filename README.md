@@ -3,5 +3,5 @@
 
 ##### - ♍ Class '99.
 ##### - 📚 Informatic Science Student at University of Salerno
-##### - 🔭 I’m currently working on [Dark Pattern Identifier](https://github.com/Carmineh/Dark-Pattern-Identifier)https://github.com/Carmineh/Dark-Pattern-Identifier)
+##### - 🔭 I’m currently working on [Dark Pattern Identifier](https://github.com/Carmineh/Dark-Pattern-Identifier)
 
