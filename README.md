@@ -1,5 +1,5 @@
 ## ♍ Random (not asked) information about me :
-🚀 Hi! I'm Carmine, a 24y student at University of Salerno
+🚀 Hi! I'm Carmine, a 24y/o student at University of Salerno
 
 📜 Graduated in Computer Science, now attending Master Degree in Computer Science - Software Engineering and IT Management
 
