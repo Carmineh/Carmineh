@@ -9,7 +9,7 @@
 
 🍕  Of course I'll always choose pizza over all other foods 🤌
 
-## 🌐 You can hit me up her 👇:
+## 🌐 You can reach me here 👇:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Carmineh_)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/131708743426506752)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carmine-calabrese-8929bb189) 
