@@ -1,5 +1,5 @@
 ## ♍ Random (not asked) information about me :
-🚀 Hi! I'm Carmine, a 24y/o student at University of Salerno, but you can call me Manny
+🚀 Hi! I'm Carmine, a student at University of Salerno, but you can call me Manny
 
 📜 Graduated in Computer Science, now attending Master Degree in Computer Science - Software Engineering and IT Management
 
