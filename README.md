@@ -3,9 +3,9 @@
 
 📜 Graduated in Computer Science, now attending Master Degree in Computer Science - Software Engineering and IT Management
 
-🔭 I’m currently working on some university project for various exams.. (Stay tuned 👀)
+🔭 I’m currently working on "EcoHouse" where I simulate the role of the Project manager of a real environment project
 
-🌱 I’m currently learning AI Development for personal knowledge and university purpose 
+🌱 I’m currently learning the basics of Project Management in all its facets.
 
 🍕  Of course I'll always choose pizza over all other foods 🤌
 
