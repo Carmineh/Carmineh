@@ -3,9 +3,9 @@
 
 📜 Graduated in Computer Science, now attending Master Degree in Computer Science - Software Engineering and IT Management
 
-🔭 I’m currently working on a Ethereum Remix IDE Plugin
+🔭 I’m currently working on various project
 
-🌱 I’m currently learning the basics of Penetration Testing and cybersecurity
+🌱 I’m currently learning the world of blockchain and gis applications
 
 🍕  Of course I'll always choose pizza over all other foods 🤌
 
