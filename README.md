@@ -3,9 +3,9 @@
 
 📜 Graduated in Computer Science, now attending Master Degree in Computer Science - Software Engineering and IT Management
 
-🔭 I’m currently working on various project
+🔭 I’m currently working on [ZK-Authentic](https://github.com/Carmineh/ZK-Authentic) (a ZKP- and blockchain-based system for product authenticity)
 
-🌱 I’m currently learning the world of blockchain and gis applications
+🌱 I’m currently learning the world of blockchain and data security
 
 🍕  Of course I'll always choose pizza over all other foods 🤌
 
