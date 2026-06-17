@@ -3,7 +3,7 @@
 
 📜 Graduated in Computer Science, now attending Master Degree in Computer Science - Software Engineering and IT Management
 
-🔭 I’m currently working on [ZK-Authentic](https://github.com/Carmineh/ZK-Authentic) (a ZKP- and blockchain-based system for product authenticity)
+🔭 I’m currently working on *DAPA* a secure decentralized way to share information in automotive systems
 
 🌱 I’m currently learning the world of blockchain and data security
 
