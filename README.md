@@ -5,9 +5,13 @@
 
 🔭 I’m currently working on *DAPA* a secure decentralized way to share information in automotive systems
 
-🌱 I’m currently learning the world of blockchain and data security
+🎮 I'm also working on [Go Fishin!](https://mannyverse.itch.io/go-fishin) a 2D incremental game
+
+🌱 I’m currently learning the world of blockchain and automotive
 
 🍕  Of course I'll always choose pizza over all other foods 🤌
+
+
 
 ## 🌐 You can reach me here 👇:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Carmineh_)
